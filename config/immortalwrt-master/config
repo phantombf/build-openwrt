@@ -7867,4 +7867,3 @@ CONFIG_PACKAGE_yq=y
 # end of Font-Utils
 # end of Xorg
 
-CONFIG_OVERRIDE_PKGS="daed luci-app-daed"
